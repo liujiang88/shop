@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "good-module": "/components/goods-list/goods-list"
+  }
+}

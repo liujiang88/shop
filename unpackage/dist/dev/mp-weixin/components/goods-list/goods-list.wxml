@@ -1,0 +1,1 @@
+<view><view class="shop_list"><block wx:for="{{list}}" wx:for-item="title" wx:for-index="index" wx:key="index"><view class="shop"><image src="{{title.imgpath}}"></image><view class="shop_title">{{title.name}}</view><view class="shop_price"><text>￥2000</text><text>￥2000</text></view></view></block></view></view>
